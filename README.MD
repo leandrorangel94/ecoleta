@@ -1,9 +1,10 @@
-## Ecoleta
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39461509/92534875-4cc91f80-f20c-11ea-97fc-1f3c1bde636c.png">
+</p>
 
 Projeto desenvolvido durante a Next Level Week da Rocketseat, entre 1 a 7 de junho de 2020.
 
-<img alt="ecoleta" src="https://user-images.githubusercontent.com/39461509/83692782-0770d280-a5cb-11ea-8b2f-2d691dcff975.png" />
-
+![thumbnail](https://user-images.githubusercontent.com/39461509/92534880-4f2b7980-f20c-11ea-8d49-b8344edffca5.png)
 
 ## :trophy: Tecnologias
 

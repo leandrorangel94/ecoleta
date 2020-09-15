@@ -2,11 +2,19 @@
   <img src="https://user-images.githubusercontent.com/39461509/92534875-4cc91f80-f20c-11ea-97fc-1f3c1bde636c.png">
 </p>
 
+<p align="center">
+<a href="#sobre-memo">Sobre</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#tecnologias-rocket">Tecnologias</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#como-contribuir-">Como Contribuir</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<a href="#licença-scroll">Licença</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+</p>
+
+
 Projeto desenvolvido durante a Next Level Week da Rocketseat, entre 1 a 7 de junho de 2020.
 
 ![ecoleta](https://user-images.githubusercontent.com/39461509/93151837-5bfc1180-f6d3-11ea-947a-d812fa26c091.png)
 
-## :trophy: Tecnologias
+## Tecnologias :rocket:
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -16,7 +24,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
-## :computer: Projeto
+## Sobre :memo:
 
 Ecoleta é um aplicativo de gerenciamento de coleta de lixo, que permite que as empresas de coleta de resíduos cadastrem locais de descarte, e as que estão cadastradas compartilhem esses locais para que após receberem os resíduos, descarte-os de forma correta.
 

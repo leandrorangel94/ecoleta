@@ -16,20 +16,21 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
-
 ## :computer: Projeto
 
 Ecoleta é um aplicativo de gerenciamento de coleta de lixo, que permite que as empresas de coleta de resíduos cadastrem locais de descarte, e as que estão cadastradas compartilhem esses locais para que após receberem os resíduos, descarte-os de forma correta.
 
-## :memo: Licença
+## Como contribuir 🤔
 
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
+## Licença :scroll:
 
-## :+1: Agradecimentos
-
-Quero agradecer a [Rocketseat](https://github.com/Rocketseat) por promover a Next Level Week 1.0 e disponibilizar conhecimento gratuitamente.
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Desenvolvido por Leandro Rangel.
+##### <p align="center"> <strong> < Feito por <a href="http://github.com/leandrorangel94"> @leandrorangel94  </a> /> </strong>  :wave:

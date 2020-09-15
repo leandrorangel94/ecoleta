@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante a Next Level Week da Rocketseat, entre 1 a 7 de junho de 2020.
 
-![thumbnail](https://user-images.githubusercontent.com/39461509/92534880-4f2b7980-f20c-11ea-8d49-b8344edffca5.png)
+![ecoleta](https://user-images.githubusercontent.com/39461509/93151837-5bfc1180-f6d3-11ea-947a-d812fa26c091.png)
 
 ## :trophy: Tecnologias
 
